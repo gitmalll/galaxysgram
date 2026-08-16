@@ -31,8 +31,8 @@ No corporate bloat, no ads, no fancy GUI—just a straightforward Python script 
    cd galaxysgram
    pip install -r requirements.txt
 
-   Run the script:
-python app.py -i my_samsung_video.mp4 -o ig_ready.mp4
+   Run the script: python app.py -i my_samsung_video.mp4 -o ig_ready.mp4
+
 
 Done. Upload ig_ready.mp4 to Instagram without it looking like it was filmed on a potato.
 
