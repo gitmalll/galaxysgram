@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment files
+.env
+.venv
+env/
+venv/
+ENV/
+
+# IDE & Editor Settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Video & Media Files (Prevent uploading raw video assets)
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.flv
+
+# Logs
+*.log
